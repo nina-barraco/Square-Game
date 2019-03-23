@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+  font-weight: 700;
+}
+
+h1 {
+  font-family: 'Taviraj', serif;
+}
+
+h2 {
+  font-family: 'Taviraj', serif;
+  font-style: italic;
+  font-weight: 500;
+}
+
+h3 {
+  font-family: 'Taviraj', serif;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 3%;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.box-style {
+  height: 10px;
+  width: 10px;
+  background-color: lightblue;
+  margin: 1px;
+}
